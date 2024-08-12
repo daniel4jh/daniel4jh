@@ -15,6 +15,7 @@ I'm a Senior Full-Stack Engineer with a passion for creating robust and scalable
 
 ## 📈 My GitHub Stats
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel4jh&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/dlopez-software-engineer)
