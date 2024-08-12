@@ -13,9 +13,6 @@ I'm a Senior Full-Stack Engineer with a passion for creating robust and scalable
 - **Terraform**: Diving deeper into infrastructure as code with Terraform to automate cloud infrastructure management.
 - **Golang & Kotlin**: Expanding my knowledge by learning new programming languages and paradigms.
 
-## 📈 My GitHub Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel4jh&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
 ## 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/dlopez-software-engineer)
 - [Personal Website](https://daniellopez.vercel.app)
