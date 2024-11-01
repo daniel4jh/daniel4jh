@@ -4,7 +4,7 @@ I'm a Senior Full-Stack Engineer with a passion for creating robust and scalable
 
 ## 🔧 Tech Stack
 - **Frontend:** React, Next.js, Angular, TypeScript, JavaScript, HTML, CSS
-- **Backend:** Node.js, Express, Django, Spring Boot, .NET Core
+- **Backend:** Node.js, Express, Django, .NET Core
 - **Databases:** MySQL, PostgreSQL, MongoDB, DynamoDB, Prisma ORM
 - **DevOps:** AWS, , Docker, Kubernetes, Terraform
 - **Other Tools:** Git, GitHub Actions, Jenkins, CI/CD, WebSockets
